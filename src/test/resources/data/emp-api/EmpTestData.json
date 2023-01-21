@@ -1,0 +1,44 @@
+{
+  "scrum" : [ 
+  {
+    "firstName" : "Hamza",
+    "lastName" : "Sadeq",
+    "email" : "HAMZASadeq@example.com",
+    "phoneNumber" : "7777777777",
+    "hireDate" : "01/01/2000",
+    "jobId" : "AD_VP",
+    "salary" : 3000,
+    "comissionPct" : 0.11,
+    "managerId" : 123,
+    "departmentId" : 50
+  },
+  {
+    "firstName" : "AbdulLLLLLLLLLLL",
+    "lastName" : "AbdulLLLLLLLLLLL",
+    "email" : "abdul@example.com",
+    "phoneNumber" : "545-4545-555",
+    "hireDate" : "01/01/2000",
+    "jobId" : "AD_VP",
+    "salary" : 300000,
+    "comissionPct" : 0.5,
+    "managerId" : 123,
+    "departmentId" : 50
+  }
+  ], 
+   "sit" : [ 
+  {
+
+    "firstName" : "sit frameworkdata",
+    "lastName" : "api",
+    "email" : "example@example.com",
+    "phoneNumber" : "<phone_number>",
+    "hireDate" : "01/01/1970",
+    "jobId" : "AD_VP",
+    "salary" : 3000,
+    "comissionPct" : 0.1,
+    "managerId" : 140,
+    "departmentId" : 20
+  } 
+  ]
+ 
+}

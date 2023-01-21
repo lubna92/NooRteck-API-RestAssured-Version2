@@ -1,0 +1,15 @@
+{
+  "scrum" : {
+    "region" : "scrum",
+    "DBServerURL" : "jdbc:mysql://hr-scrum.noortecktraining.com:8002",
+    "DBUserName" : "noorteck_hr_scrum_user",
+    "DBPassword" : "scrum_db123",
+    "DBPortNumber" : "8002"
+  },
+  "sit" : {
+    "region" : "sit",
+    "DBServerURL" : "jdbc:mysql://hr-sit.noortecktraining.com:8001",
+    "DBUserName" : "noorteck_hr_sit_user",
+    "DBPassword" : "sit_db123"
+  }
+}

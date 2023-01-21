@@ -1,0 +1,12 @@
+{
+  "firstName": "",
+  "lastName": "",
+  "email": "",
+  "phoneNumber": "",
+  "hireDate": "",
+  "jobId": "",
+  "salary": 0,
+  "comissionPct": 0.0,
+  "managerId": 0,
+  "departmentId": 0
+}

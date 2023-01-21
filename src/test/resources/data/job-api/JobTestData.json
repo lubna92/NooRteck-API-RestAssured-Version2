@@ -1,0 +1,18 @@
+{
+  "scrum" : [ 
+{
+  "jobId": "IT_PROGL",
+  "jobTitle": "Administration Vice President",
+  "minSalary": 2000,
+  "maxSalary": 30000
+},
+{
+  "jobId": "IT_PROG",
+  "jobTitle": "SDETLub",
+  "minSalary": 2000,
+  "maxSalary": 30000
+}
+  
+  ],
+  "sit" : [ { } ]
+}

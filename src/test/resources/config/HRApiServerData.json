@@ -1,0 +1,40 @@
+{
+  "Employee" : {
+    "baseScrumURL" : "https://hr-scrum.noortecktraining.com",
+    "baseSitURL" : "https://hr-sit.noortecktraining.com/",
+    "GetAllEmp" : "/employee/all",
+    "GetEmpByName" : "/employee/search-by-name",
+    "GetAllJobHistory" : "/employee/job-history",
+    "GetJobHistoryById" : "/employee/job-history/{id}",
+    "GetEmpDetailedInfo" : "/employee/detailed-info/{id}",
+    "GetAllManagers" : "/employee/managers",
+    "PostNewEmp" : "/employee/create",
+    "PutExistingEmp" : "/employee/update",
+    "PatchExistingEmp" : "/employee/update",
+    "DeleteEmp" : "/employee/delete/{id}"
+  },
+  "Department" : {
+    "baseScrumURL" : "https://hr-scrum.noortecktraining.com",
+    "baseSitURL" : "https://hr-sit.noortecktraining.com/",
+    "GetAllDept" : "/department/all",
+    "GetDeptById" : "/department/{id}",
+    "PostNewDept" : "/department/create",
+    "PutExistingDept" : "/department/update",
+    "PatchDeptByManager" : "/department/update-manager",
+    "PatchDeptByName" : "/department/update-name",
+    "DeleteDept" : "/department/delete/{id}"
+  },
+   "Job" : {
+    "baseScrumURL" : "https://hr-scrum.noortecktraining.com",
+    "baseSitURL" : "https://hr-sit.noortecktraining.com/",
+    "GetAllJob" : "/job/all",
+    "GetJobById" : "/job/employees/{id}",
+    "GetSpecificJob" : "/job",
+    "GetJobAndEmployees" : "/job/employees",
+    "PostNewJob" : "/job/create",
+    "PutExistingJob" : "/job/update",
+    "PatchJobByTitle" : "/job/update-title",
+    "PatchJobBySalary" : "/job/update-salary-info",
+    "DeleteJob" : "/job/delete/{id}"
+  }
+}

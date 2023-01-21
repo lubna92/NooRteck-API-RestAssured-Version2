@@ -1,0 +1,12 @@
+{
+  "scrum" : [ 
+  {
+    "departmentId": 30,
+   	"departmentName": "SDETLubna",
+    "managerId" : 123,
+    "locationId" : 1000
+  } 
+  
+  ],
+  "sit" : [ { } ]
+}
